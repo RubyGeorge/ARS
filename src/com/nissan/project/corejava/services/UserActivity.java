@@ -62,7 +62,7 @@ public void register(){
 	}
 	validate=true;
 	while(validate){
-		System.out.println("Enter your number");
+		//System.out.println("Enter your number");
 		num=sc.nextLine();
 		if(!Pattern.matches("[0-9]{10}", num))
 			System.out.println("Enter a valid phone number");
