@@ -1,4 +1,7 @@
 package com.nissan.project.corejava.model;
+/*
+Testing git push
+*/
 
 public class Flight {
 private String flightName;
